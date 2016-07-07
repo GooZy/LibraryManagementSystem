@@ -7,6 +7,7 @@
 2. setting.txt四行分别对应：ip、端口、数据库登陆用户名、登陆密码  
 3. 登陆请使用Manager表中的用户名和密码进行登陆
 4. 开发中我觉得比较能解决疑惑的链接都放到了 **解惑的链接.txt** 里了
+5. 入口为 **Main.java** 文件
 
 #### 系统功能模块
 ![系统功能模块](http://7xsy54.com1.z0.glb.clouddn.com/%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD.png)
